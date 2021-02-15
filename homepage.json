@@ -25,30 +25,32 @@
         id:"", }
 
     ],
-    "best2021":[
-  {
-  "status":"ongoing",
-  "imglink":"https://inoridonz.com/wp-content/uploads/2020/12/demonslayer_kimetsunoyaiba_01.jpg",
-  "id":"StZUD8J056PMnkiOCdMo",
-  },
-  {
-  "status":"ended",
-  "imglink":"https://www.denofgeek.com/wp-content/uploads/2020/09/Attack-on-Titan-Season-4-Poster.jpg",
-  "id":"a4GNuoIguaY13jJphzs7",  },
-  {
-  "status":"Aot 707",
-  "imglink":"https://m.media-amazon.com/images/M/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_UY1200_CR99,0,630,1200_AL_.jpg",
-  "id":"",  },
-  {
-  "status":"ongoing",
-  "imglink":"https://upload.wikimedia.org/wikipedia/en/e/e0/Game_of_Thrones_Season_8.png",
-  "id":"", },
-  {
-  "status":"",
-  "imglink":"https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR93,0,630,1200_AL_.jpg",
-  "id":"", }
+    best2021:[
+   {
+        name:"Demon Slayer: Kimetsu No Yaiba",
+        status:"ongoing",
+        imglink:"https://inoridonz.com/wp-content/uploads/2020/12/demonslayer_kimetsunoyaiba_01.jpg",
+        id:""
+      },
+      {
+        status:"ended",
+        imglink:"https://www.denofgeek.com/wp-content/uploads/2020/09/Attack-on-Titan-Season-4-Poster.jpg",
+        id:""  },
+      {
+        status:"Aot 707",
+        imglink:"https://m.media-amazon.com/images/M/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_UY1200_CR99,0,630,1200_AL_.jpg",
+        id:"",  },
+      {
+        status:"ongoing",
+        imglink:"https://upload.wikimedia.org/wikipedia/en/e/e0/Game_of_Thrones_Season_8.png",
+        id:"", },
+      {
+        status:"",
+        imglink:"https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR93,0,630,1200_AL_.jpg",
+        id:"", }
+
 
   ],
-    "mostwatched":[],
-    "Notification":""
+    mostwatched:[],
+    Notification:""
   };
